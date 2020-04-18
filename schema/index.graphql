@@ -1,6 +1,3 @@
 #import Usuario, Perfil from 'Usuario.graphql'
 #import Query from 'Query.graphql'
-#import Produto from 'Produto.graphql'
-
-scalar Date
-
+#import Mutation from 'Mutation.graphql'
